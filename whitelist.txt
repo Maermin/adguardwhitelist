@@ -17,6 +17,7 @@
 #News
 @@||bild.de^$important
 @@||configv2.unityads.unity3d.com^$important
+@@||config.ads.vungle.com^$important
 # Google
 @@||0.client-channel.google.com^$important
 @@||2.android.pool.ntp.org^$important
