@@ -15,6 +15,8 @@
 @@||heartbeats.prd.data.s.joyn.de^$important
 @@||ad-client.mediafe-prd.s.joyn.de^$important
 #News
+
+@@||bild.met.vgwort.de^$important
 @@||bild.de^$important
 @@||configv2.unityads.unity3d.com^$important
 @@||config.ads.vungle.com^$important
